@@ -1,5 +1,5 @@
 # BubbleSort
-Bubble Sort in Java
+Bubble Sort Algorithm in Java
 
 This algorithm steps through the given array, compares each pair of 
 
