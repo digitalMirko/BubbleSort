@@ -1,6 +1,8 @@
 package com.digitalmirko;
 
 // Bubble Sort in Java
+// This algorithm steps through the given array, compares each pair of adjacent items,
+// swaps them until no other swaps are required.
 // Big O Notation:
 // Best case: O(n), Average and Worst Case: O(n2)
 
@@ -67,5 +69,5 @@ Output:
 
 0, 2, 3, 6, 7, 8, 16, 18, 21, 23, 34, 45,
 
-0, 2, 3, 6, 7, 8, 16, 18, 21, 23, 34, 45, 
+0, 2, 3, 6, 7, 8, 16, 18, 21, 23, 34, 45,
  */
